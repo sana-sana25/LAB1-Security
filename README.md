@@ -1,4 +1,6 @@
 # LAB1-Security / Préparation d’un environnement Android Security 
+<img width="681" height="382" alt="image" src="https://github.com/user-attachments/assets/750f04c5-7b1e-4fbd-bd4a-47861f6452d3" />
+
 
 ## Objectif du TP
 
